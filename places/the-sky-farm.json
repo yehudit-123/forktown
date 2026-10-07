@@ -1,0 +1,41 @@
+{
+  "id": "the-sky-farm",
+  "name": "the sky farm",
+  "creator": "yehudit-123",
+  "plot": "J4",
+  "building": "observatory",
+  "color": "#a50d0d",
+  "decoration": "mailbox",
+  "story": "you welcome any time!",
+  "design": {
+    "wall": "#ceac50",
+    "trim": "#ffffff",
+    "floors": 1,
+    "roof": "gable",
+    "windows": "round",
+    "garden": "wildflowers",
+    "feature": "porch"
+  },
+  "resident": {
+    "name": "yuda",
+    "figure": "female",
+    "skin": "#d5a872",
+    "hair": "#db8000",
+    "outfit": "#a1c69f",
+    "accessory": "hat",
+    "greeting": "holla!",
+    "routine": {
+      "morning": "stroll",
+      "afternoon": "stroll",
+      "evening": "stroll",
+      "night": "stroll"
+    }
+  },
+  "sign": {
+    "mode": "none",
+    "text": "HELLO",
+    "color": "#FFF4D4",
+    "background": "#35554A",
+    "html": ""
+  }
+}
